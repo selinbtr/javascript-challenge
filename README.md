@@ -17,9 +17,3 @@
   3. `state`
   4. `country`
   5. `shape`
-
-- - -
-
-### Dataset
-
-* [UFO Sightings Data](StarterCode/static/js/data.js)
